@@ -1,0 +1,8 @@
+PSEUDOCODE
+
+Dropdown menu selection when hover over nav bar selection.
+
+// ID the <li> in <nav> bar.
+// Assign hover which triggers drop down menu.
+// Dropdown menu stays open as long as you keep mouse over it.
+// Each selection has a different assigned link.
